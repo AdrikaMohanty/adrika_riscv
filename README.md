@@ -1,5 +1,9 @@
 # adrika_riscv
 RISCV based MYTH 
+This project is done as a part of MYTH : Microprocessor for you in thirty hours , hosted by RedWood EDA , VSD .
+Day 1 and 2 can be found in the following repo : 
+
+All the days codes are uploaded, feel free to look into it!
 
 <details>
   <summary>
@@ -70,5 +74,28 @@ Sequential calculator :
 
 
 
+2 cycle Sequential calculator with validity and memory 
+
+
+![image](https://github.com/AdrikaMohanty/adrika_riscv/assets/84654826/7423f209-61b7-4647-91c5-b5a8e1f58a18)
+
   
+</details>
+
+
+<details>
+  <summary> DAY 4 AND DAY 5</summary>
+
+
+  PC : Program counter 
+
+  ![image](https://github.com/AdrikaMohanty/adrika_riscv/assets/84654826/fb56cdf7-5e46-4663-b212-9a6d423cf5f7)
+
+
+
+  Instruction fetch
+
+  ![image](https://github.com/AdrikaMohanty/adrika_riscv/assets/84654826/e8199f43-c6de-465b-a7ce-ff37008d37ee)
+
+
 </details>
