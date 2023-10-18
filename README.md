@@ -98,4 +98,36 @@ Sequential calculator :
   ![image](https://github.com/AdrikaMohanty/adrika_riscv/assets/84654826/e8199f43-c6de-465b-a7ce-ff37008d37ee)
 
 
+
+  Instruction decode :
+
+
+  ![image](https://github.com/AdrikaMohanty/adrika_riscv/assets/84654826/5f573dba-a910-47a2-8256-34a0e35854b2)
+
+
+
+  Read file 
+
+  ![image](https://github.com/AdrikaMohanty/adrika_riscv/assets/84654826/8ab53195-1baf-4e91-9276-d2620d1306f1)
+
+
+
+ 
+
+
+  Write register 
+
+  ![image](https://github.com/AdrikaMohanty/adrika_riscv/assets/84654826/2e2441d2-7f81-46ac-b34d-5e73dd81a739)
+
+
+
+
+
+   Branch instruction :
+
+
+  ![image](https://github.com/AdrikaMohanty/adrika_riscv/assets/84654826/335915c8-ced2-4037-bf57-3ec56e4800f9)
+
+
+
 </details>
